@@ -1,0 +1,31 @@
+Space Gambit:
+www.spacegambit.org/2013/02/05/open-call-for-projects/
+
+Address the Habitat theme:
+Monitor/improve air quality levels within a space.
+
+Assume a closed system
+* Track when that assumpton breaks
+ * Monitor door traffic
+ * Monitor open windows
+* Compare measurements in space with measurements outside of space
+
+Create a test for closed space?
+* Measure decay of a saturated gaseous substance to judge diffusion coeff
+* Repeat with room modifications: door open, heater on/off, etc.
+
+Measure plant health
+* Hygrometer to measure soil's water content
+* IR + Vis comparison to judge absorbance
+
+Track interacting agents
+* Measure biomass of photosynthesizing entities
+ * Potted plants
+  * Weigh pots without plant
+  * Add plant to pots
+  * Weight pots over time
+  * Measure weight of water prior to watering plant
+* Measure biomass of respirating entities
+* Measure air/gas mixture (CO2, O2, N2, etc)
+
+Automate plant caretaking?
